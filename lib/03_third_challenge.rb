@@ -8,7 +8,7 @@ def third_challenge
         :name=>"Lady Montague", :age=>"54"#your key/value pairs here
         },
       :hero => {
-        :name=>"Romeo", :age=>"15", :status=>"Alive"#your key/value pairs here
+        :name=>"Romeo", :age=>"15", :status=>"alive"#your key/value pairs here
         },
       :hero_friends => []
    },
@@ -20,7 +20,7 @@ def third_challenge
         :name=>"Lady Capulet", :age=>"51"#your key/value pairs here
         },
       :heroine => {
-        :name=>"Juliet", :age=>"15"#your key/value pairs here
+        :name=>"Juliet", :age=>"15", :status=>"alive"#your key/value pairs here
         },
       :heroine_friends => []
    }
